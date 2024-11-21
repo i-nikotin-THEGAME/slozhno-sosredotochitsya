@@ -1,1 +1,1 @@
-https://github.com/i-nikotin-THEGAME/posmotri_v_okno.git
+https://github.com/i-nikotin-THEGAME/slozhno-sosredotochitsya.git
