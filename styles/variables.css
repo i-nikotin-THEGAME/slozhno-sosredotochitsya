@@ -9,11 +9,14 @@
   --main-font-weight: 400;
   --main-font-bold: 700;
   --line-height: 23.4px;
-  --accent-color: #ff0070;
+  --main-text-color: #F1B2CE;
+  --accent-color: #000028;
+  --background-accent-color: #ff0070;
+  --decorated-color: #ff0070;
   --button-hover: #f399c6;
   --title-color: #DB00FF;
   --background-color: #000028;
-  --main-text-color: #F1B2CE;
+  --shadow-title-color: #ff0070;
   --background-image: url(../images/cover-image.png);
   --font-size-desktop: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --font-size-mobile: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
